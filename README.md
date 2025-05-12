@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Clash-007
 - 👀 I’m interested in ....
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chinmaychinmay007@gmail.com
 - 😄 Pronouns: he,him
