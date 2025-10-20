@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Clash-007
 - 👀 I’m interested in ....
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me chinmaychinmay007@gmail.com
-- 😄 Pronouns: he,him
+- 📫 How to reach me 
+- 😄 Pronouns: 
 - ⚡ Fun fact: ...
 
 <!---
